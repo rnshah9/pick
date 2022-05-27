@@ -1,0 +1,7 @@
+project: rnshah9/pick
+target: pick
+image: ghcr.io/rnshah9/playground:pick
+tests: null
+
+cmds:
+  - cmd: /repo/pick 
