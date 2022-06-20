@@ -1,6 +1,5 @@
-project: rnshah9/pick
+project: pick
 target: pick
-tests: null
 
 cmds:
   - cmd: /repo/pick 
