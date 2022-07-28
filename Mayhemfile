@@ -2,4 +2,4 @@ project: pick
 target: pick
 
 cmds:
-  - cmd: /repo/pick 
+  - cmd: /pick 
